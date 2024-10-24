@@ -59,9 +59,8 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License - see the <a href="https://github.com/print-ramcharan/click-N-Go/blob/main/LICENSE">LICENSE</a> file for details.
 
-<p align="center"> <b>Built with ❤️ by Z tech</b> </p> ```
+<p align="center"> <b>Built with ❤️ by Polabathina Ramcharan Teja</b> </p> ```
 Changes:
 Fixed the formatting for the markdown block (bash).
 Corrected the list formatting so it complies with GitHub's markdown processor.
 Ensured proper spacing between sections.
-You can now copy the entire code and paste it directly into your README.md file. Let me know if it works!
