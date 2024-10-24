@@ -1,0 +1,30 @@
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#03DAC5</color> <!-- Define your accent color here -->
+
+    <!-- Theme-specific Colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorSecondary">#03DAC5</color>
+
+    <!-- Light Theme Colors -->
+    <color name="colorPrimaryLight">#BB86FC</color>
+    <color name="colorPrimaryVariantLight">#3700B3</color>
+    <color name="colorSecondaryLight">#03DAC5</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorPrimaryVariantDark">#6200EE</color>
+    <color name="colorSecondaryDark">#03DAC5</color>
+
+    <!-- Custom Theme Colors -->
+    <color name="colorCustomPrimary">#FFBB86FC</color>
+    <color name="colorCustomPrimaryVariant">#FF3700B3</color>
+    <color name="colorCustomSecondary">#FF03DAC5</color>
+</resources>
