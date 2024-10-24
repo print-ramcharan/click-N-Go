@@ -57,7 +57,7 @@ Contributions are welcome! Please follow these steps to contribute:
 <ol> <li>Fork the repository</li> <li>Create a feature branch (<code>git checkout -b feature-branch</code>)</li> <li>Commit your changes (<code>git commit -m 'Add new feature'</code>)</li> <li>Push to the branch (<code>git push origin feature-branch</code>)</li> <li>Create a new Pull Request</li> </ol>
 📝 License
 
-This project is licensed under the MIT License - see the <a href="https://github.com/print-ramcharan/ClickNgo/blob/main/LICENSE">LICENSE</a> file for details.
+This project is licensed under the MIT License - see the <a href="https://github.com/print-ramcharan/ClickNgo/LICENSE">LICENSE</a> file for details.
 
 <p align="center"> <b>Built with ❤️ by Z tech</b> </p> ```
 Changes:
